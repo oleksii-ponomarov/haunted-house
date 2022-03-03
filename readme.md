@@ -1,4 +1,5 @@
-# Three.js Journey
+# Haunted House
+This scene is created during my learning of Three.js library with [Three.js Journey](https://threejs-journey.com/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
